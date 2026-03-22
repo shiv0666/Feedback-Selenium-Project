@@ -68,19 +68,20 @@ DEVOPS CA2/
 
 ### 🟢 Jenkins Setup
 
-![Jenkins Setup](screenshots/Screenshot%202026-03-22%20202954.png)
+![Jenkins Setup](./screenshots/Screenshot%202026-03-22%20202954.png)
 
 ### 🟢 Jenkins Successful Build
 
-![Jenkins Success](screenshots/Screenshot%202026-03-22%20203044.png)
+![Jenkins Success](./screenshots/Screenshot%202026-03-22%20203044.png)
 
 ### 🟢 Feedback Form UI
 
-![Feedback Form](screenshots/Screenshot%202026-03-22%20203107.png)
+![Feedback Form](./screenshots/Screenshot%202026-03-22%20203107.png)
 
 ### 🟢 Selenium Execution in Eclipse
 
-![Eclipse Run](screenshots/Screenshot%202026-03-22%20203128.png)
+![Eclipse Run](./screenshots/Screenshot%202026-03-22%20203128.png)
+
 
 ---
 
