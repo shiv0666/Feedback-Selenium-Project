@@ -38,7 +38,7 @@ DEVOPS CA2/
 │   ├── Screenshot 2026-03-22 202954.png
 │   ├── Screenshot 2026-03-22 203044.png
 │   ├── Screenshot 2026-03-22 203107.png
-│   └── Screenshot 2026-03-22 203107.png (Eclipse)
+│   └── Screenshot 2026-03-22 203128.png
 ```
 
 ---
@@ -68,19 +68,19 @@ DEVOPS CA2/
 
 ### 🟢 Jenkins Setup
 
-![Jenkins Setup](screenshots/Screenshot 2026-03-22 202954.png)
+![Jenkins Setup](screenshots/Screenshot%202026-03-22%20202954.png)
 
 ### 🟢 Jenkins Successful Build
 
-![Jenkins Success](screenshots/Screenshot 2026-03-22 203044.png)
+![Jenkins Success](screenshots/Screenshot%202026-03-22%20203044.png)
 
 ### 🟢 Feedback Form UI
 
-![Feedback Form](screenshots/Screenshot 2026-03-22 203107.png)
+![Feedback Form](screenshots/Screenshot%202026-03-22%20203107.png)
 
 ### 🟢 Selenium Execution in Eclipse
 
-![Eclipse Run](screenshots/Screenshot 2026-03-22 203107.png)
+![Eclipse Run](screenshots/Screenshot%202026-03-22%20203128.png)
 
 ---
 
