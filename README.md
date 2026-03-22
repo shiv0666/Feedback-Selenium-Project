@@ -2,17 +2,17 @@
 
 ## 📌 Project Overview
 
-This project is a complete DevOps-based implementation of a **Student Feedback Form** with frontend validation, automated testing using Selenium, and continuous integration using Jenkins.
+This project demonstrates a complete DevOps workflow by building a **Student Feedback Form**, automating its testing using Selenium, and integrating execution with Jenkins.
 
 ---
 
 ## 🚀 Features
 
-* 🧾 Student Feedback Form (HTML, CSS, JavaScript)
-* ✅ Client-side form validation
-* 🤖 Automated testing using Selenium (Java)
-* 🔁 Continuous Integration using Jenkins
-* 📸 Test execution screenshots included
+* Student Feedback Form (HTML, CSS, JavaScript)
+* Form Validation (Client-side)
+* Selenium Automation Testing (Java)
+* Jenkins Continuous Integration
+* Execution Screenshots included
 
 ---
 
@@ -35,24 +35,22 @@ DEVOPS CA2/
 ├── style.css
 ├── script.js
 ├── screenshots/
-│   ├── TC1_Page_Load.png
-│   ├── TC2_Submission.png
-│   ├── TC3_Validation.png
-│   └── ...
+│   ├── Screenshot 2026-03-22 202954.png
+│   ├── Screenshot 2026-03-22 203044.png
+│   ├── Screenshot 2026-03-22 203107.png
+│   └── Screenshot 2026-03-22 203107.png (Eclipse)
 ```
 
 ---
 
 ## 🧪 Selenium Test Cases
 
-The following test cases are automated:
-
 1. ✔ Page Load Verification
 2. ✔ Valid Form Submission
 3. ✔ Empty Field Validation
 4. ✔ Email Validation
 5. ✔ Mobile Number Validation
-6. ✔ Dropdown Selection Check
+6. ✔ Dropdown Functionality
 7. ✔ Reset Button Functionality
 
 ---
@@ -60,25 +58,43 @@ The following test cases are automated:
 ## ⚙️ Jenkins Integration
 
 * Created a Freestyle Job in Jenkins
-* Configured build steps using Windows Batch Commands
-* Executed Selenium test cases through Jenkins
-* Verified results in Console Output
+* Configured batch commands for execution
+* Ran Selenium test cases automatically
+* Verified output in Console
 
 ---
 
 ## 📸 Screenshots
 
-Screenshots of test execution are available in the **screenshots/** folder.
+### 🟢 Jenkins Setup
+
+![Jenkins Setup](screenshots/Screenshot 2026-03-22 202954.png)
+
+### 🟢 Jenkins Successful Build
+
+![Jenkins Success](screenshots/Screenshot 2026-03-22 203044.png)
+
+### 🟢 Feedback Form UI
+
+![Feedback Form](screenshots/Screenshot 2026-03-22 203107.png)
+
+### 🟢 Selenium Execution in Eclipse
+
+![Eclipse Run](screenshots/Screenshot 2026-03-22 203107.png)
 
 ---
 
-## ▶️ How to Run Project
+## ▶️ How to Run
 
 ### 🔹 Run Frontend
 
-1. Open `index.html`
-2. Use Live Server (recommended)
-3. Access via:
+Open:
+
+```
+index.html
+```
+
+Or use Live Server:
 
 ```
 http://127.0.0.1:5500/index.html
@@ -86,28 +102,28 @@ http://127.0.0.1:5500/index.html
 
 ---
 
-### 🔹 Run Selenium Tests
+### 🔹 Run Selenium
 
-1. Open project in Eclipse
-2. Add Selenium JAR files
-3. Run `TestCases.java`
+* Open in Eclipse
+* Add Selenium JAR files
+* Run `TestCases.java`
 
 ---
 
 ### 🔹 Run via Jenkins
 
-1. Create Freestyle Project
-2. Add Build Step (Execute Windows Batch Command)
-3. Configure classpath with Selenium JARs
-4. Click **Build Now**
-5. Check **Console Output**
+* Create Freestyle Project
+* Add Build Step
+* Execute Batch Commands
+* Click **Build Now**
+* Check **Console Output**
 
 ---
 
 ## ⚠️ Note
 
-* Selenium JAR files are not uploaded due to size constraints
-* Jenkins is configured locally
+* Selenium JAR files are not uploaded
+* Jenkins runs locally
 
 ---
 
@@ -119,6 +135,6 @@ http://127.0.0.1:5500/index.html
 
 ## 🎯 Conclusion
 
-This project demonstrates the integration of frontend development, automated testing, and DevOps practices using Jenkins for continuous testing.
+This project successfully integrates frontend development, automated testing, and DevOps practices using Jenkins for continuous execution.
 
 ---
