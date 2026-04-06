@@ -6,7 +6,7 @@ This project demonstrates a complete DevOps workflow by building a **Student Fee
 
 ---
 
-## 🚀 Features
+## 🚀 Featuress
 
 * Student Feedback Form (HTML, CSS, JavaScript)
 * Form Validation (Client-side)
